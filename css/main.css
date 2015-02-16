@@ -1,0 +1,27 @@
+/*
+colors and stuff
+color: rgb(102,102,102); (black)
+color: rgb(66,133,244); (dk blue)
+color: rgb(79,195,247); (lt blue)
+color: rgb(28,233,182); (lt green)
+color: rgb(0,191,165); (dk green)
+*/
+
+body {
+    margin: 15px auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+img.brand-logo {
+    width: 25%;
+    height: 25%;
+}
+
+header {
+    text-align: center;
+}
+
+.brand-title {
+    color: rgb(66,133,244);
+    font-weight: bold;
+}
